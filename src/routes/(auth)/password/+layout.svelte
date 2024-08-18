@@ -1,2 +1,2 @@
-<h1><em>Authorization Layout</em></h1>
+<p>Password layout</p>
 <slot><!-- optional fallback --></slot>
